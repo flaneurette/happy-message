@@ -1,5 +1,5 @@
 # happy-message
-Give a user a happy message
+Give the user a happy goodbye message
 
 
 Usage
@@ -8,5 +8,8 @@ Usage
 Include the script and then... 
 
 goodbye.showMessage();
+
+Result
+------
 
 Toodle-loo, Kangaroo!
