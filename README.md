@@ -8,3 +8,5 @@ Usage
 Include the script and then... 
 
 goodbye.showMessage();
+
+Toodle-loo, Kangaroo!
